@@ -17,6 +17,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #1F2937;
+}
+
 .header-container,
 .hero-container {
     background-color: #1F2937;
